@@ -1,0 +1,2 @@
+# Событие OnAfterExternalCrmDealAdd
+
